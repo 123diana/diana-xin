@@ -140,3 +140,7 @@ input[name=_gotcha] {
 #load-overlay {
   display: none;
 }
+
+strong {
+  font-weight: bold;
+}
