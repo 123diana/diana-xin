@@ -24,6 +24,10 @@ a {
   position: relative;
 }
 
+.index-links a {
+  text-underline-offset: 5px;
+}
+
 .top-row {
   display: flex;
   justify-content: space-between;
