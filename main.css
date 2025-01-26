@@ -112,10 +112,6 @@ input[name=_gotcha] {
   margin-bottom: 2rem;
 }
 
-#load-overlay {
-  display: none;
-}
-
 strong {
   font-weight: bold;
 }
